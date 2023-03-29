@@ -1,1 +1,1 @@
-This is general ML project structured that is followed at industry level
+This is general ML project structure that is followed at industry level
